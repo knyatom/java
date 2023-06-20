@@ -1,1 +1,141 @@
 https://github.com/knyatom/java.git
+
+자바수업
+자료실-> 자바수업자료1, 자바수업자료2
+수업자료(교안)
+
+adoptopenjdk.net
+
+OpenJDK
+
+javac -version
+
+VS-code(X)
+인텔리제이 - java
+익클립스(ellipse)- JSP
+
+울트라(유료), 커뮤니티(무료)
+
+https://www.jetbrains.com/ko-kr/idea/
+
+sysdm.cpl
+
+인텔리제이에서는 저장할 필요가 없다.
+ctrl+s -> XXXXX
+
+자바의 개요
+실행하기
+변수와 데이터
+연산자
+조건문
+반복문
+배열
+문자열과 메소드
+예외처리 
+----------------
+파일입출력
+객체지향프로그램
+클래스
+추상클래스
+상속과 다형성
+인터페이스
+제네릭,
+컬렉션프레임워크 (자료구조)
+멀티스레드
+----------------------
+
+JDK 
+자바에서 제공되는 개발용 라이브러리
+버젼이 올라고 있다.
+
+JRE
+자바 런타임 environment
+자바 프로그램이 실행되는 환경
+
+JVM 
+자바 가상 머신
+
+javac hello.java
+
+firstJava
+
+file->settings
+
+D2Coding
+
+실행하기->Shift+F10
+
+file->setting
+font->d2coding 선택
+
+폰트파일에서 우클릭->설치
+
+static 
+별도로 메모리에 올라간다.
+
+Main.java
+java class
+package
+
+src->우클릭-> package
+폴더와 유사
+test/abc/aaa.jpg
+
+test.main2
+
+클래스명은 대문자로 시작한다.
+Main2.java
+Student.java
+
+패키지는 소문자로 적는다.
+
+변수, 메소드, 함수명은 카멜표기법으로
+testMethod()
+studenAvg;
+
+패키지명을 test01
+
+new -> java class-> Class
+Interface(설계도)
+
+test01.Test01
+
+클래스파일은 
+main함수에서 생성하거나,
+자체적으로 main 함수를 만든다.
+
+main -> enter
+
+void  함수가 반환하는 형이 없다.
+정수형, 문자형, 객체형
+
+sout
+
+문자열은 무조건 쌍따옴표 " "
+
+실행하기->Shift+F10
+
+java system
+
+System -> 클래스
+필드(field)-> out
+속성
+System.out.printl()
+
+ctrl+d 
+
+자바스크립트의 const
+java에서는 final
+
+
+
+
+
+
+
+
+
+
+
+
+
