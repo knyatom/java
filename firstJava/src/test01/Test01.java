@@ -1,5 +1,7 @@
 package test01;
 
+import java.sql.SQLOutput;
+
 public class Test01 {
     public static void main(String[] args) {
         System.out.println("welcome to my world");
@@ -44,7 +46,6 @@ public class Test01 {
 
         double ddd = 30.00;
         float fff = 30.0f;
-
         // boolean - 1바이트          // char - 2바이트
         // byte - 1바이트   short  - 2바이트
         // int - 4바이트   long(정수) - 8바이트 L
@@ -54,5 +55,9 @@ public class Test01 {
 
         // C 언어에서 나온 명령어
         System.out.printf("저는 %s입니다. 나이는 %d이고, 키는 %.2fcm입니다.", "이순신", 20, 190.5f);
+        System.out.printf("\n");
+        String str2=String.format("저는 %s입니다. 나이는 %d이고, 키는 %.2fcm입니다.", "이순신", 20, 190.5f);
+        System.out.println(str2);
+
     }
 }

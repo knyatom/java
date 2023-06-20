@@ -124,8 +124,63 @@ System.out.printl()
 
 ctrl+d 
 
+상수
 자바스크립트의 const
 java에서는 final
+
+sout -> tab
+
+자바스크립트에서 
+strict mode
+
+'use strict';
+문법적으로 엄격모드
+
+    System.out.printf("%c,%c\n" ,c,cc);
+
+00000000 11111111 00000000 1111111
+              0~128
+ 128 X 
+0~127까지
+  맨앞은 부호비트  0 -> 양수, 1->음수
+           
+
+30 -> int
+long 롱1 = 30L;
+long 롱2 = 30;
+
+코드정렬하기
+ctrl+alt+shift+L
+
+왼쪽에 라인넘버에서
+우클릭->Soft-Wrap
+
+Test02
+
+jsp 
+
+
+고양이과  야옹이= new 고양이();
+
+[ 예제 실습 ]
+수업자료(코딩)
+Ajax로 RSS신문연동하기
+
+조선일보 rss
+동아일보 rss
+중앙일보 rss
+
+만들어서 카페에 올리기
+
+CORS 
+
+구글마켓에 CORS검색해서 다운받기
+
+
+
+
+
+
 
 
 
