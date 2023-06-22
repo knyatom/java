@@ -12,6 +12,78 @@ shift+F10
 
 자료구조
 
+ArrayList
+Vector
+
+Main2 클래스
+ Main함수-> add호출
+
+ add함수
+
+static 메모리 영역
+멤버변수
+멤버함수
+멤버메소드
+
+고양이과
+
+class 고양이{
+  private 나이;
+  
+  먹다();
+  get
+  set
+}
+
+고양이 야용이 = new 고양이()
+ 클래스명  인스턴스변수   생성자함수
+instance
+
+먹다();  함수
+고양이.먹다();   메소드
+
+Person 클래스
+ name, age
+
+기본생성자
+오버로딩된 생성자
+getter
+setter
+@Override 메소드
+
+우클릭->Generate
+alt+insert
+
+PersonTest
+.toString() 
+오버라이딩 해보자.
+메소드 재정의
+
+public String getName()
+누구나 리턴이 문자형인 getName함수
+
+jsp 
+클라이언트 사이드 
+html,css, javascript
+index.html
+
+서버사이드 언어
+java, jsp
+jsp -> index.jsp
+
+<%  %>
+<html>
+<body>
+<%  java code %>
+</body>
+</html>
+
+상품정보, 학생수강신청페이지
+학생정보테이블
+학생.java
+
+servlet -> java코드안에 html태그
+
 
 
 
