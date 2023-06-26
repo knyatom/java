@@ -1,7 +1,7 @@
 package test01;
 
 public class People {
-    // 멤버변수의 상태는 메소드에 의해 변경이 되어야 한다.
+    // 멤버변수, 클래스변수의 상태는 메소드에 의해 변경이 되어야 한다.
     private int 배고픔지수=30;
     // 멤버함수
     public void eat() {
