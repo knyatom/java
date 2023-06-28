@@ -1,0 +1,41 @@
+https://github.com/knyatom/java.git
+
+https://gitlab.com/easyspubjava/BeginningJAVA/-/tree/main/Chapter03/03-04
+
+class
+
+test03.Student@21bcffb5
+팩키지명.클래스명@32비트주소(16진수)
+
+싱글톤 singleton
+
+참조변수
+
+정보제어지시자와 정보은닉
+
+같은 클래스
+같은 패키지
+------------------------------
+
+if(aaa !=null){
+
+}
+
+3-11
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
