@@ -35,10 +35,9 @@ public class ArrayListTest {
   ArrayList<String> list2=new ArrayList<>();
   list2.add("abcdefg");
   list2.add("zzzzzz");
-
-  for(String str:list2)
+  for(String str:list2) {
    System.out.println(str);
-
+  }
   // 배열은 iterator() 객체이다.
   Iterator iter=list.iterator();
   while (iter.hasNext()){
