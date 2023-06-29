@@ -20,6 +20,8 @@ public class Person {
   System.out.println(p2.name);
   System.out.println(p2.age);
   System.out.println(p.getPerson());
+ // School aaa=new School();
+  //School 학교5= School.getInstance();
  }
 }
 // nullPointException
