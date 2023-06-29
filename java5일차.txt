@@ -8,8 +8,8 @@ Student.serialNum = 100;
 
 System.out.println()
 
-싱글톤 패턴
-패턴-코드의 형태
+싱글톤 (single tone) 패턴
+패턴-코드의 한 형태
 MVC1, MVC2 -> 스프링을 이해
 
 // 생성자 함수 private로 선언
@@ -19,6 +19,7 @@ MVC1, MVC2 -> 스프링을 이해
   외부에서 접근가능하도록 한다.
 // 이유는 비용절감(메모리절약)
 
+ArrayList.java
 
 
 
