@@ -22,6 +22,45 @@ BookArrayTest
 배열복사
 장바구니에 상품추가
 
+shallow copy
+deep copy
+
+3-19
+
+ArrayList 
+
+장바구니=['사과']
+장바구니=['사과','배']
+push('배');
+
+장바구니 복사-> '사과','배' 를 재할당
+
+clear()
+contains()
+indexOf()
+
+single tone
+
+CarFactory
+
+스타크래프트에서
+CommandCenter -> 싱글톤선언
+유닛>200
+유닛하나씩 증가 
+unit count -> static
+
+배럭-> 마린
+팩토리 -> 골리앗
+--------------------------------
+new Fatory("탱크");
+
+
+
+
+
+
+
+
 
 
 
